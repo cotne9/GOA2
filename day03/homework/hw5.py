@@ -5,4 +5,6 @@
 # ცვლადებში შესაბამისი მნიშვნელობები შეინახეთ.
 
 
-my_name = cotne
+my_name = "cotne"
+place_of_birth = "Tbilisi"
+eye_color = "brown"
